@@ -25,7 +25,4 @@
 <p> Bye Bye </p>
 
 <h3> How is everything going ? </h3>
-
-<p> Bye Bye </p>
-
 <p> I am fine </p>
