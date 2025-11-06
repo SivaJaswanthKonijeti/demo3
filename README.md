@@ -24,6 +24,4 @@
 
 <p> Bye Bye </p>
 
-
-
 <p> I am fine </p>
